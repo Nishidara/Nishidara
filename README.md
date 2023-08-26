@@ -1,16 +1,38 @@
-### Hi there 👋
+# Hey, I'm [Your Name] 👋
 
-<!--
-**Nishidara/Nishidara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a [Your Profession] with a passion for [Your Interests]. I love to [mention a few hobbies or activities you enjoy].
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently getting work experience.
+- 🌱 I’m currently learning C and soon C++.
+- 👯 I’m not looking to collaborate at the moment.
+- 💬 Ask me about Epitech, games, or C.
+- 📫 How to reach me: elias.abassi@epitech.eu.
+
+## 🔧 Technologies & Tools
+
+Here are some technologies and tools I work with:
+
+![Visual Studio Code](VSCodelogo.svg) ![VirtualBox](Virtualbox_logo.svg) ![Linux](Tux.svg)
+
+## 🌟 Featured Projects
+
+Check out some of my noteworthy projects:
+
+- [Shell-Programming](https://github.com/Nishidara/Shell-Programming): Recreating a shell in C.
+- [Automakefile](https://github.com/Nishidara/Automakefile): Creating a program generating makefile automatically.
+- [Graphical-Projects](https://github.com/Nishidara/Graphical-Projects): Some graphic projects like games and else.
+
+## 📈 GitHub Stats
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nishidara&show_icons=true&theme=dark)
+
+## 📫 Get in Touch
+
+I'm always excited to connect with fellow developers, tech enthusiasts, and potential collaborators. You can reach me via:
+
+- Email: [elias.abassi@epitech.eu]
+- LinkedIn: [Elias Abassi]
+
+Looking forward to connecting with you! 😄
