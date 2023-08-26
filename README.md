@@ -2,11 +2,11 @@
 
 Welcome to my GitHub profile! I'm a first year student at Epitech Lyon with a passion for programmation. I love to play video games and listening to music while coding.
 
-## 🚀 About Me
+## 🔱 About Me
 
-- 🔭 I’m currently getting work experience.
-- 🌱 I’m currently learning C and soon C++.
-- 👯 I’m not looking to collaborate at the moment.
+- 💼 I’m currently getting work experience.
+- 📚 I’m currently learning C and soon C++.
+- 🤝 I’m not looking to collaborate at the moment.
 - 💬 Ask me about Epitech, games, or C.
 - 📫 How to reach me: elias.abassi@epitech.eu.
 
