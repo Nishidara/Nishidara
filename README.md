@@ -1,6 +1,6 @@
-# Hey, I'm [Your Name] 👋
+# Hey, I'm [Elias] 👋
 
-Welcome to my GitHub profile! I'm a [Your Profession] with a passion for [Your Interests]. I love to [mention a few hobbies or activities you enjoy].
+Welcome to my GitHub profile! I'm a [Student] with a passion for [programmation]. I love to [play video games and listening to music while coding].
 
 ## 🚀 About Me
 
