@@ -24,9 +24,10 @@ Check out some of my noteworthy projects:
 - [Automakefile](https://github.com/Nishidara/Automakefile): Creating a program generating makefile automatically.
 - [Graphical-Projects](https://github.com/Nishidara/Graphical-Projects): Some graphic projects like games and else.
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats And Contributions
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nishidara&show_icons=true&theme=dark)
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Nishidara&theme=dark)
 
 ## 📫 Get in Touch
 
