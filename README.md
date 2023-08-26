@@ -1,6 +1,6 @@
 # Hey, I'm Elias 👋
 
-Welcome to my GitHub profile! I'm a student with a passion for programmation. I love to play video games and listening to music while coding.
+Welcome to my GitHub profile! I'm a first year student at Epitech Lyon with a passion for programmation. I love to play video games and listening to music while coding.
 
 ## 🚀 About Me
 
