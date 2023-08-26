@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a first year student at Epitech Lyon with a pa
 
 Here are some technologies and tools I work with:
 
-![Visual Studio Code](VSCodelogo.svg) ![VirtualBox](Virtualbox_logo.svg) ![Linux](Tux.svg)
+![Visual Studio Code](http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd) ![VirtualBox](Virtualbox_logo.svg) ![Linux](Tux.svg)
 
 ## 🌟 Featured Projects
 
