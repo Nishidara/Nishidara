@@ -28,6 +28,7 @@ Check out some of my noteworthy projects:
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nishidara&show_icons=true&theme=dark)
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Nishidara&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide=html,css&theme=dark)
 
 ## 📫 Get in Touch
 
