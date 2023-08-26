@@ -1,4 +1,4 @@
-# Hey, I'm [Elias] 👋
+# Hey, I'm Elias 👋
 
 Welcome to my GitHub profile! I'm a student with a passion for programmation. I love to play video games and listening to music while coding.
 
