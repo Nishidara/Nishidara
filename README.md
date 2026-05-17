@@ -34,7 +34,7 @@ Check out some of my noteworthy projects:
 
 I'm always excited to connect with fellow developers, tech enthusiasts, and potential collaborators. You can reach me via:
 
-- Email: [elias.abassi@epitech.eu]
+- Email: [elias6940027@gmail.com]
 - LinkedIn: [Elias Abassi]
 
 Looking forward to connecting with you! 😄
