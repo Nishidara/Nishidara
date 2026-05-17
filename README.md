@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a first year student at Epitech Lyon with a pa
 - 📚 I’m currently learning C and soon C++.
 - 🤝 I’m not looking to collaborate at the moment.
 - 💬 Ask me about Epitech, games, or C.
-- 📫 How to reach me: elias.abassi@epitech.eu.
+- 📫 How to reach me: elias6940027@gmail.com
 
 ## 🔧 Technologies & Tools
 
